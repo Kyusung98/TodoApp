@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41126a91-c5bb-431b-97e5-27021fc43996" name="변경" comment="" />
+    <list default="true" id="41126a91-c5bb-431b-97e5-27021fc43996" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/TodoApp/TodoAppController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/TodoApp/TodoAppController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,17 +20,46 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="TodoApp" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="TodoApp" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="TodoApp" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LiKLsi28p1LhKbyJSSiKQnfvC6" />
   <component name="ProjectViewState">
@@ -72,7 +103,7 @@
       <workItem from="1676348410986" duration="661000" />
       <workItem from="1676349297503" duration="95000" />
       <workItem from="1676349515762" duration="32000" />
-      <workItem from="1676349652303" duration="19000" />
+      <workItem from="1676349652303" duration="647000" />
     </task>
     <servers />
   </component>
